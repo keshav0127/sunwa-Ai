@@ -1,0 +1,41 @@
+[
+  {
+    "intervention_id": "INT-2026-001",
+    "target_cluster_id": "INC-PAN-001",
+    "cluster_description": "Panvel Railway Station Stormwater Drain Desilting and Unclogging",
+    "region": "Panvel",
+    "action_type": "Deep Drain Desilting & High-Pressure Suction Cleaning",
+    "department": "Drainage & Sanitation",
+    "created_timestamp": "2026-09-23T10:00:00",
+    "completion_timestamp": "2026-09-25T18:00:00",
+    "status": "Completed",
+    "notes": "Cleared 45 metric tons of silt and plastic refuse blocking the 1200mm stormwater culvert outside Panvel Railway Station auto stand. High-pressure jetting completed.",
+    "is_simulated": true
+  },
+  {
+    "intervention_id": "INT-2026-002",
+    "target_cluster_id": "INC-NER-001",
+    "cluster_description": "SIES Graduate School of Technology Pothole Emergency Asphalt Patching",
+    "region": "Nerul",
+    "action_type": "Hot-Mix Asphalt Resurfacing & Milling",
+    "department": "Roads & Public Works",
+    "created_timestamp": "2026-09-24T14:30:00",
+    "completion_timestamp": "2026-09-25T06:00:00",
+    "status": "Completed",
+    "notes": "Emergency hot-mix asphalt patching carried out over 35 square meters outside SIES GST gate. Compaction verified with vibratory roller.",
+    "is_simulated": true
+  },
+  {
+    "intervention_id": "INT-2026-003",
+    "target_cluster_id": "INC-VAS-001",
+    "cluster_description": "APMC Market Vashi Solid Waste Clearance Drive",
+    "region": "Vashi",
+    "action_type": "Heavy Compactors Waste Clearance & Daily Bin Deployment",
+    "department": "Solid Waste Management",
+    "created_timestamp": "2026-09-28T09:00:00",
+    "completion_timestamp": null,
+    "status": "In Progress",
+    "notes": "Special clearing shift deployed with 3 mechanical compactors. Additional 4.5 cubic meter bins scheduled for installation at Gate 2.",
+    "is_simulated": true
+  }
+]

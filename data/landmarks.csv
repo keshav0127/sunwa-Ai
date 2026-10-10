@@ -1,0 +1,32 @@
+landmark_id,region,landmark_name,aliases,category,latitude,longitude,coordinate_source,verification_status
+LM-NER-001,Nerul,SIES Graduate School of Technology,"SIES College|SIES GST|SIES Engineering College|SIES Nerul|SIES Campus|एसआयईएस|एसआयईएस कॉलेज|एसआयईएस जीएसटी|एसआयईएस नेरुल|एस आई ई एस",Education,19.0435,73.0234,OpenStreetMap Curated,verified
+LM-NER-002,Nerul,Nerul Railway Station,"Nerul Station|Nerul Local Station|Nerul Stn|Nerul Rly Station|नेरुल स्टेशन|नेरुळ स्टेशन|नेरुल रेल्वे स्टेशन",Transit,19.0330,73.0182,OpenStreetMap Curated,verified
+LM-NER-003,Nerul,DY Patil Stadium,"DY Patil Cricket Stadium|D Y Patil Ground|DY Patil Sports Stadium|DY Patil Nerul|डी वाय पाटील|डी वाय पाटील स्टेडियम|डी. वाय. पाटील",Sports/Recreation,19.0442,73.0298,OpenStreetMap Curated,verified
+LM-NER-004,Nerul,Wonders Park,"Wonders Park Nerul|Wonders Theme Park|Wonders Park Sector 19A|वंडर्स पार्क|वंडर्स पार्क नेरुल",Parks/Recreation,19.0270,73.0287,OpenStreetMap Curated,verified
+LM-NER-005,Nerul,Nerul Sector 19 Market,"Sector 19 Market Nerul|Nerul Sec 19 Market|Sec 19 Bazaar Nerul|नेरुल सेक्टर १९|सेक्टर १९ मार्केट",Commercial,19.0305,73.0255,OpenStreetMap Curated,verified
+LM-NER-006,Nerul,Jewel of Navi Mumbai,"Jewel of Navi Mumbai Nerul|Jewel Lake Nerul|Jewel Park Nerul Sector 26|ज्युएल ऑफ नवी मुंबई|ज्वेल पार्क",Parks/Recreation,19.0195,73.0160,OpenStreetMap Curated,verified
+LM-NER-007,Nerul,Nerul Gymkhana,"Nerul Gymkhana Sector 28|Gymkhana Nerul|नेरुल जिमखाना",Sports/Recreation,19.0380,73.0205,OpenStreetMap Curated,verified
+LM-PAN-001,Panvel,Panvel Railway Station,"Panvel Station|Panvel Terminus|Panvel Rly Stn|पनवेल स्टेशन|पनवेल रेल्वे स्टेशन",Transit,18.9902,73.1205,OpenStreetMap Curated,verified
+LM-PAN-002,Panvel,Orion Mall Panvel,"Orion Mall|Orion Shopping Mall Panvel|ओरियन मॉल|ओरियन मॉल पनवेल",Commercial,18.9950,73.1180,OpenStreetMap Curated,verified
+LM-PAN-003,Panvel,Karnala Sports Academy,"Karnala Sports Club|KSA Panvel|Karnala Ground|कर्नाला स्पोर्ट्स|कर्नाला क्लब",Sports/Recreation,18.9975,73.1250,OpenStreetMap Curated,verified
+LM-PAN-004,Panvel,Panvel Municipal Corporation,"PMC Office|Panvel Mahanagarpalika|Old Panvel Municipal Council|पनवेल महानगरपालिका|पीएमसी ऑफिस",Civic/Government,18.9890,73.1110,OpenStreetMap Curated,verified
+LM-PAN-005,Panvel,Shivaji Chowk Panvel,"Panvel Shivaji Chowk|Chhatrapati Shivaji Chowk Panvel|शिवाजी चौक पनवेल|छत्रपती शिवाजी चौक",Junction,18.9875,73.1140,OpenStreetMap Curated,verified
+LM-PAN-006,Panvel,Khanda Colony Market,"Khanda Colony New Panvel|Sector 8 Khanda Colony|Khanda Market|खांदा कॉलनी|खांदा मार्केट",Commercial,19.0060,73.1120,OpenStreetMap Curated,verified
+LM-VAS-001,Vashi,Vashi Railway Station,"Vashi Station|Vashi Local Stn|वाशी स्टेशन|वाशी रेल्वे स्टेशन",Transit,19.0645,72.9984,OpenStreetMap Curated,verified
+LM-VAS-002,Vashi,Inorbit Mall Vashi,"Inorbit Vashi|Inorbit Mall Sector 30A|इनऑर्बिट मॉल|इनऑर्बिट वाशी",Commercial,19.0660,72.9985,OpenStreetMap Curated,verified
+LM-VAS-003,Vashi,Shivaji Chowk Vashi,"Sector 17 Shivaji Chowk Vashi|Vashi Shivaji Circle|शिवाजी चौक वाशी|वाशी शिवाजी चौक",Junction,19.0758,72.9995,OpenStreetMap Curated,verified
+LM-VAS-004,Vashi,APMC Market Vashi,"APMC Fruit Market|APMC Grain Market|APMC Mandi Vashi|APMC Sector 19|एपीएमसी मार्केट|ए पी एम सी मार्केट|एपीएमसी वाशी",Commercial,19.0790,73.0100,OpenStreetMap Curated,verified
+LM-VAS-005,Vashi,Vashi Sector 9 Bus Depot,"Vashi Bus Depot|Sector 9 Depot|NMMT Vashi Bus Stand|वाशी बस डेपो|बस स्थानक वाशी",Transit,19.0720,72.9950,OpenStreetMap Curated,verified
+LM-VAS-006,Vashi,Fortis Hiranandani Hospital,"Fortis Hospital Vashi|Hiranandani Hospital Vashi Sector 10A|फोर्टिस हॉस्पिटल|हिरानंदानी हॉस्पिटल वाशी",Healthcare,19.0785,72.9930,OpenStreetMap Curated,verified
+LM-KHA-001,Kharghar,Kharghar Railway Station,"Kharghar Station|Kharghar Rly Station|खारघर स्टेशन|खारघर रेल्वे स्टेशन",Transit,19.0280,73.0695,OpenStreetMap Curated,verified
+LM-KHA-002,Kharghar,Central Park Kharghar,"Central Park|Kharghar Central Park Sector 23|सेंट्रल पार्क|सेंट्रल पार्क खारघर",Parks/Recreation,19.0650,73.0720,OpenStreetMap Curated,verified
+LM-KHA-003,Kharghar,Utsav Chowk Kharghar,"Utsav Chowk|Utsav Chowk Sector 7 Kharghar|उत्सव चौक|उत्सव चौक खारघर",Junction,19.0385,73.0675,OpenStreetMap Curated,verified
+LM-KHA-004,Kharghar,NIFT Mumbai,"NIFT Kharghar|National Institute of Fashion Technology Kharghar Sector 4|निफ्ट|निफ्ट खारघर",Education,19.0345,73.0650,OpenStreetMap Curated,verified
+LM-KHA-005,Kharghar,Shilp Chowk Kharghar,"Shilp Chowk Sector 20 Kharghar|Shilp Chowk|शिल्प चौक|शिल्प चौक खारघर",Junction,19.0490,73.0715,OpenStreetMap Curated,verified
+LM-KHA-006,Kharghar,Kharghar Valley Golf Course,"Golf Course Kharghar|Kharghar Valley Golf|गोल्फ कोर्स खारघर",Sports/Recreation,19.0690,73.0770,OpenStreetMap Curated,verified
+LM-BEL-001,Belapur,CBD Belapur Railway Station,"CBD Belapur Station|Belapur Station|Belapur Rly Stn|बेलापूर स्टेशन|सीबीडी बेलापूर स्टेशन|बेलापूर रेल्वे स्टेशन",Transit,19.0185,73.0410,OpenStreetMap Curated,verified
+LM-BEL-002,Belapur,NMMC Headquarters,"NMMC Head Office|Navi Mumbai Municipal Corporation HQ|NMMC Palm Beach|एनएमएमसी मुख्यालय|नवी मुंबई महानगरपालिका",Civic/Government,19.0165,73.0335,OpenStreetMap Curated,verified
+LM-BEL-003,Belapur,Konkan Bhavan,"Konkan Bhavan Belapur|Konkan Bhavan Sector 11|कोकण भवन|कोकण भवन बेलापूर",Civic/Government,19.0170,73.0450,OpenStreetMap Curated,verified
+LM-BEL-004,Belapur,Artist Village Belapur,"Artist Village Sector 8 Belapur|Kala Gram Belapur|आर्टिस्ट व्हिलेज|कला ग्राम बेलापूर",Residential/Cultural,19.0235,73.0390,OpenStreetMap Curated,verified
+LM-BEL-005,Belapur,Belapur Fort,"Belapur Killa|Historic Belapur Fort|बेलापूर किल्ला",Heritage,19.0010,73.0295,OpenStreetMap Curated,verified
+LM-BEL-006,Belapur,Cidco Bhavan Belapur,"Cidco Bhavan Sector 15 Belapur|CIDCO Office Belapur|सिडको भवन|सिडको ऑफिस",Civic/Government,19.0190,73.0430,OpenStreetMap Curated,verified

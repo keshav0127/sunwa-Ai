@@ -1,0 +1,62 @@
+[
+  {
+    "pair_id": "EVAL-001",
+    "text1": "There is a huge pothole near the railway station.",
+    "lang1": "en",
+    "text2": "रेलवे स्टेशन के पास सड़क पर बड़ा गड्ढा है।",
+    "lang2": "hi",
+    "relation": "semantic_duplicate",
+    "expected_similarity_high": true,
+    "description": "English to Hindi translation of railway station pothole"
+  },
+  {
+    "pair_id": "EVAL-002",
+    "text1": "There is a huge pothole near the railway station.",
+    "lang1": "en",
+    "text2": "रेल्वे स्टेशनजवळ रस्त्यावर मोठा खड्डा आहे.",
+    "lang2": "mr",
+    "relation": "semantic_duplicate",
+    "expected_similarity_high": true,
+    "description": "English to Marathi translation of railway station pothole"
+  },
+  {
+    "pair_id": "EVAL-003",
+    "text1": "Water pipeline burst causing flood on main road.",
+    "lang1": "en",
+    "text2": "पिण्याच्या पाण्याची पाईपलाईन फुटल्यामुळे रस्त्यावर पाणी साचले आहे.",
+    "lang2": "mr",
+    "relation": "semantic_duplicate",
+    "expected_similarity_high": true,
+    "description": "English to Marathi water pipeline burst"
+  },
+  {
+    "pair_id": "EVAL-004",
+    "text1": "Station ke paas bahut bada gaddha hai.",
+    "lang1": "hi-Latn",
+    "text2": "स्टेशन के पास बड़ा गड्ढा है।",
+    "lang2": "hi",
+    "relation": "transliterated_paraphrase",
+    "expected_similarity_high": true,
+    "description": "Romanized Hindi vs Devanagari Hindi"
+  },
+  {
+    "pair_id": "EVAL-005",
+    "text1": "Huge pothole near the railway station entrance.",
+    "lang1": "en",
+    "text2": "Streetlight pole is broken and dark near the railway station.",
+    "lang2": "en",
+    "relation": "different_issues_same_place",
+    "expected_similarity_high": false,
+    "description": "Same landmark, different issue category (pothole vs streetlight)"
+  },
+  {
+    "pair_id": "EVAL-006",
+    "text1": "Garbage dump rotting outside market entrance.",
+    "lang1": "en",
+    "text2": "High voltage live wire hanging over the street.",
+    "lang2": "en",
+    "relation": "completely_unrelated",
+    "expected_similarity_high": false,
+    "description": "Garbage vs Live wire electrical hazard"
+  }
+]

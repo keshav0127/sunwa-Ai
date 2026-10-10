@@ -1,0 +1,28 @@
+# Secrets — never commit
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Data state files (regeneratable; can be large)
+data/actions.json
+data/alerts.json
+
+# OS artefacts
+.DS_Store
+Thumbs.db
