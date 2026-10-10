@@ -42,14 +42,14 @@ SAFETY_KEYWORDS = [
 
 # Category keyword → category mapping (ordered: most specific first)
 CATEGORY_PATTERNS: List[Tuple[str, str]] = [
-    (r"\b(?:pothole|khadda|gaddha|crater|road.*broken|broken.*road|खड्डा|गड्ढ|रस्त.*तुटल|रस्त.*खड्डा)\b", "Road Damage & Potholes"),
-    (r"\b(?:waterlog|flood|submer|drain.*chok|chok.*drain|stormwater|gutter|nali|गटार|तुंबल|पाणी.*साच|नाली.*तुंब)\b", "Drainage & Flooding"),
-    (r"\b(?:garbage|waste|dump|litter|kachra|कचरा|कूड़ा|घाण|sanit|solid.*waste)\b", "Solid Waste & Sanitation"),
-    (r"\b(?:water.*leak|leak.*water|pipeline|pipe|supply.*water|paani.*gal|पाणी.*गळत|पाणी.*पुरव)\b", "Water Supply & Pipeline"),
-    (r"\b(?:streetlight|street.*light|light.*off|bulb.*fus|light.*dark|अंधार|light.*band|बत्त.*बंद|विज.*बंद|electr.*fail)\b", "Electrical & Streetlights"),
-    (r"\b(?:tree.*fall|fallen.*tree|झाड.*पडल|tree.*block|branch)\b", "Tree / Vegetation"),
-    (r"\b(?:footpath|pavement|sidewalk|footpath.*broken|पदपथ)\b", "Footpath & Pavement"),
-    (r"\b(?:sewage|sewer|manhole.*open|open.*manhole|sewer.*overflow|sewerage)\b", "Sewage & Manholes"),
+    (r"(?i)\b(?:sewag|sewer|manhole|man-hole|chamber|septic|सांडपाणी|मॅनहोल|मैनहोल)\b", "Sewage & Manholes"),
+    (r"(?i)\b(?:waterlog|water-log|water\s+log|flood|submerg|stormwater|drain|gutter|nullah|nala|nali|naali|गटार|तुंब|साच|नाली|नाला|ओसंडून|डबके)\b", "Drainage & Flooding"),
+    (r"(?i)\b(?:pothol|pot\s*hol|khadd|gaddh|crater|asphalt|tar\s*road|road.*broken|broken.*road|road.*damag|damaged.*road|cave-?in|uneven\s*road|खड्डा|खड्डे|गड्डा|गड्ढे|रस्त)\b", "Road Damage & Potholes"),
+    (r"(?i)\b(?:streetlight|street\s*light|lamppost|darkness|pitch\s*dark|no\s*light|light.*off|electricity|power\s*cut|transformer|wire|sparking|short\s*circuit|batti|andhar|andhera|bijli|khamba|स्ट्रीटला|लाईट|लाइट|अंधार|विजेचा|बत्ती|खांब|विद्युत)\b", "Electrical & Streetlights"),
+    (r"(?i)\b(?:garbag|waste|dump|litter|trash|rubbish|refuse|kachra|kachada|kudha|kuda|dher|sanitat|dustbin|solid\s*waste|stray\s*cattle|stench|foul\s*smell|badbu|badboo|कचरा|कूड़ा|घाण|दुर्गंधी)\b", "Solid Waste & Sanitation"),
+    (r"(?i)\b(?:water\s*supply|pipeline|pipe\s*line|pipe\s*burst|burst\s*pipe|water\s*leak|leakage|leak|no\s*water|low\s*pressure|water\s*shortage|drinking\s*water|dirty\s*water|tanker|main\s*line|paani|pani|पाणी|पाण्याची|पाणीपुरवठा|गळती|पाइपलाइन|पाईप)\b", "Water Supply & Pipeline"),
+    (r"(?i)\b(?:footpath|foot\s*path|pavement|sidewalk|walkway|paver\s*block|pedestrian|broken\s*tile|curb|kerb|पदपथ|पाऊलवाट|पेव्हर\s*ब्लॉक|फूटपाथ)\b", "Footpath & Pavement"),
+    (r"(?i)\b(?:tree|branch|fallen\s*tree|horticulture|pruning|jhad|ped|झाड|झाडे|फांदी|फांद्या)\b", "Tree / Vegetation"),
 ]
 
 
